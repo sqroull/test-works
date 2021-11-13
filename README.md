@@ -1,2 +1,2 @@
 # test-works
-Standart test works for a job.
+Standart test tasks for a job.
